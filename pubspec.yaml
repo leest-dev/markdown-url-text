@@ -1,6 +1,6 @@
 name: markdown_url_text
 description: A lightweight widget that parses a text with markdown-style formatted links, and makes makes them tappable.
-version: 0.0.2
+version: 0.0.3
 homepage: https://www.leest.dev
 
 environment:
