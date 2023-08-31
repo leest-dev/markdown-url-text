@@ -1,0 +1,18 @@
+name: markdown_url_text
+description: A lightweight widget that parses a text with markdown-style formatted links, and makes makes them tappable.
+version: 0.0.2
+homepage: https://www.leest.dev
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
